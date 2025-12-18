@@ -1,0 +1,15 @@
+{
+  "name": "io.github.vr-voyage.vrchat.glb-loader.shaders",
+  "displayName": "Voyage 3D Model Loader Shaders",
+  "version": "1.0.0",
+  "description": "Modified Shaders used by Voyage 3D Model Loader",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Voyage Voyage",
+    "email": "voyage@miouyouyou.fr",
+    "url": "https://github.com/vr-voyage"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {}
+}
